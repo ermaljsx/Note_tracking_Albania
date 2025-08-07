@@ -1,0 +1,4 @@
+-keep class com.voiceai.voicenotes.** { *; }
+-dontwarn org.jetbrains.annotations.**
+-keep class com.squareup.moshi.** { *; }
+-keep class kotlin.Metadata { *; }
